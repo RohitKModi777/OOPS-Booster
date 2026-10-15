@@ -1,3 +1,4 @@
+/*********  Note : Unlike languages like C++, Java has no Destructor. Instead, Java has an efficient  garbage collector that deallocates memory automatically.    ********/
 /*
      Constructor => called automatically called when object created
 Constructor is a special method which is invoked automatically at the time of object creation.
