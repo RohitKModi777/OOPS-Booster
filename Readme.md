@@ -39,10 +39,10 @@ Package - making a pack of same category things,
    -> by default we use inbuilt package of java like java.util.* {util package we are using}
 
 Access Modifiers
-  -Default
-  -Public
-  -Private
-  -Protected
+  - Default -> is only within the package not define any access modifier that is default access modifier, can't access outside the package
+  - Public -> everywhere accessible 
+  - Private ->access level of a private modifier is only within the class or it's sub classes not outside the class.
+  - Protected -> access of protected modifier is within the package and outside the package through child class.
 
 Encapsulation - bundling in a single unit we use access modifier for encapsuling the things.
 
