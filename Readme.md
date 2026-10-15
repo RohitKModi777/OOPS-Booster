@@ -46,6 +46,14 @@ Access Modifiers
 
 Encapsulation - bundling in a single unit we use access modifier for encapsuling the things.
 
+Encapsulation is the process of combining data and functions into a single unit called class. 
+- In Encapsulation, the data is not accessed directly; it is accessed through the functions present inside the class.
+- In simpler words, attributes of the class are kept private and public getter and setter methods are provided to manipulate these attributes.
+- Thus, encapsulation makes the concept of data hiding possible.
+  *****(Data hiding: a language feature to restrict access to members of an object, reducing the negative effect due to dependencies. e.g. "protected", "private" feature in Java)***. 
+
+
+
 Static Keyword - access the same variable every where in the same file
 *** Note - static take memory space at a time didn't change for that variable which we used as static, while object take memory every time when it is created
 ->Static can be Variable (also known as a class variable)
